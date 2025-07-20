@@ -1,10 +1,6 @@
-Alright Jash, I rewrote the README in **your voice** — crisp, practical, humble but confident, a bit playful, and totally grounded. Here’s a version that sounds like *you made it*, not some over-polished YouTube creator dude.
-
----
-
 # 💼 Zepto E-commerce Inventory Analysis (SQL Project)
 
-Hey there — this is a SQL-based data analysis project I built to strengthen my business analytics profile. I used a real-world dataset scraped from **Zepto**, one of India’s fastest-growing quick-commerce startups.
+Hey there — this is a SQL-based data analysis project I built to strengthen my SQL skills. I used a real-world dataset scraped from **Zepto**, one of India’s fastest-growing quick-commerce startups.
 
 This project simulates how analysts work behind the scenes in e-commerce: from cleaning messy data to extracting actual business insights using SQL.
 
