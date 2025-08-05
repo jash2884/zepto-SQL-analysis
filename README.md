@@ -133,7 +133,7 @@ Wrote queries to extract:
 ## 📌 How to Run This
 
 ```bash
-git clone [repo-link]
+git clone https://github.com/jash2884/zepto-SQL-analysis
 cd zepto-SQL-data-analysis-project
 ```
 
